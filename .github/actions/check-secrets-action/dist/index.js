@@ -6059,7 +6059,7 @@ const gradeLearner = __webpack_require__(244);
 
 async function run() {
   try {
-    const token = core.getInput("your-secret");
+    const token = core.getInput("secret1");
     const { owner, repo } = github.context.repo;
     const results = await gradeLearner(owner, repo, token);
 
