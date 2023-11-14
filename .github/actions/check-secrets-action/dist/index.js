@@ -599,7 +599,7 @@ async function properSecretValue(token, owner, repo) {
             msg: "Incorrect solution",
             error: {
               expected: "We expected your secret to contain a value",
-              got: `A null value for the secret supplied at your-secret, which most likely means the secret doesn't exist.`,
+              got: `A null value for the secret supplied at secret1, which most likely means the secret doesn't exist.`,
             },
           },
         ],
