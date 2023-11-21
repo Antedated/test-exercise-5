@@ -1,3 +1,5 @@
+[![Use Secrets](https://github.com/Zirconiu/test-exercise-5/actions/workflows/use-secrets.yml/badge.svg)](https://github.com/Zirconiu/test-exercise-5/actions/workflows/use-secrets.yml)
+
 # Welcome to the Use Secrets exercise!
 
 This is an exercise to check your knowledge on using secrets in GitHub Actions workflows. It is automatically graded via a workflow once you have completed the instructions.
